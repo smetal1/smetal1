@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Saurav
 
-<!--
-**smetal1/smetal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer working on AI infrastructure, MLOps, and scalable platforms.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on Podstack
+- 🌱 Learning system design and distributed computing
+- 💬 Ask me about backend, Kubernetes, AI infra, ML infra, Web3 protocols, Data Engineering, and Graph DB development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/saurav-kumar21)
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sauravkumar&theme=github-compact" alt="GitHub Activity Graph">
+</p>
